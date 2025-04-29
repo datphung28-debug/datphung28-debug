@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I'm+Phung+Tien+Dat!&center=true&width=380&height=45&color=00FFCC&size=25&pause=1000" alt="intro" />
 </p>
-# 💫 About Me:
+# 💫 About Me: <br>
 🔭 I’m currently working on building a personal portfolio website with React and TailwindCSS.<br>
 🤝 I’m looking to collaborate on frontend open-source projects.<br>
 🖖 I’m looking for help with improving my backend skills (Node.js, APIs).<br>
